@@ -31,7 +31,5 @@
     serta memberikan jarak dan padding pada elemen-elemen lain seperti hero section, sidebar, dan footer.
     Saya juga menggunakan CSS reset untuk menghilangkan margin dan padding bawaan pada semua elemen.
 </p>
-<img src="" width="300" height="auto" alt="Langkah ketiga: Menambahkan CSS untuk Styling">
-
 <h2>Hasil Langkah Ketiga</h2>
-<img src="" width="300" height="auto" title="Hasil langkah ketiga" alt="Hasil langkah ketiga: CSS Styling">
+<img src="Screenshot 2024-10-22 100724.png" width="300" height="auto" title="Hasil langkah ketiga" alt="Hasil langkah ketiga: CSS Styling">
