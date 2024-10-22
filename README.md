@@ -22,7 +22,7 @@
 <img src="Screenshot 2024-10-22 100645.png" width="300" height="auto" alt="Langkah kedua: Membuat Layout Sederhana">
 
 <h2>Hasil Langkah Kedua</h2>
-<img src="" width="300" height="auto" title="Hasil langkah kedua" alt="Hasil langkah kedua: Layout Sederhana">
+<img src="Screenshot 2024-10-22 100707.png" width="300" height="auto" title="Hasil langkah kedua" alt="Hasil langkah kedua: Layout Sederhana">
 
 <h1>Langkah Ketiga: Menambahkan CSS untuk Styling</h1>
 <p align="justify">
