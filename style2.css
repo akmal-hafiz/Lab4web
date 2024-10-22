@@ -1,0 +1,41 @@
+/* Form styling */
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input, 
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.form-group button {
+    padding: 10px 20px;
+    background-color: #1f5faa;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form-group button:hover {
+    background-color: #2b83ea;
+}
+
+/* Additional styling for About page */
+.entry ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.entry ul li {
+    margin-bottom: 10px;
+}
