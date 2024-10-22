@@ -19,7 +19,7 @@
     Layout ini memiliki beberapa bagian seperti header, navigasi, hero section, dan footer. 
     File <code>style.css</code> digunakan untuk mengatur gaya halaman, termasuk ukuran kontainer, warna latar belakang, dan tata letak elemen.
 </p>
-<img src="" width="300" height="auto" alt="Langkah kedua: Membuat Layout Sederhana">
+<img src="Screenshot 2024-10-22 100645.png" width="300" height="auto" alt="Langkah kedua: Membuat Layout Sederhana">
 
 <h2>Hasil Langkah Kedua</h2>
 <img src="" width="300" height="auto" title="Hasil langkah kedua" alt="Hasil langkah kedua: Layout Sederhana">
