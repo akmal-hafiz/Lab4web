@@ -8,7 +8,7 @@
     Elemen <code>div</code> pertama hingga ketiga memiliki float <code>left</code>, sedangkan elemen keempat menggunakan properti <code>clear</code> 
     untuk mengatur ulang layout dan float <code>none</code> agar berada di baris baru.
 </p>
-<img src="" width="300" height="auto" alt="Langkah pertama: Membuat Box Layout">
+<img src="Screenshot 2024-10-22 100530.png" width="300" height="auto" alt="Langkah pertama: Membuat Box Layout">
 
 <h2>Hasil Langkah Pertama</h2>
 <img src="" width="300" height="auto" title="Hasil langkah pertama" alt="Hasil langkah pertama: Box Layout">
