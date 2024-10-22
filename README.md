@@ -11,7 +11,7 @@
 <img src="Screenshot 2024-10-22 100530.png" width="300" height="auto" alt="Langkah pertama: Membuat Box Layout">
 
 <h2>Hasil Langkah Pertama</h2>
-<img src="" width="300" height="auto" title="Hasil langkah pertama" alt="Hasil langkah pertama: Box Layout">
+<img src="Screenshot 2024-10-22 100542.png" width="300" height="auto" title="Hasil langkah pertama" alt="Hasil langkah pertama: Box Layout">
 
 <h1>Langkah Kedua: Membuat Layout Sederhana</h1>
 <p align="justify">
